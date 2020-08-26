@@ -7,4 +7,4 @@
 enabled_site_setting :checklist_enabled
 
 register_asset 'stylesheets/checklist.scss'
-register_asset 'javascripts/viewer-static.min.js'
+# register_asset 'javascripts/viewer-static.min.js'
