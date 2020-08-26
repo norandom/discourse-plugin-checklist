@@ -106,8 +106,7 @@ export function setup(helper) {
                      'span.chcklst-box fa fa-square',
                      'span.chcklst-box fa fa-minus-square-o',
                      'span.chcklst-box checked fa fa-check-square',
-                     'span.chcklst-box checked fa fa-check-square-o',
-                     'div.mxgraph' ]);
+                     'span.chcklst-box checked fa fa-check-square-o' ]);
 
   setupMarkdownIt(helper);
 }
