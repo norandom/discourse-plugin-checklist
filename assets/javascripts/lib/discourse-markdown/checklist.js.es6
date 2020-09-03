@@ -102,6 +102,7 @@ function setupMarkdownIt(helper) {
 export function setup(helper) {
   helper.whiteList([ 'span.chcklst-stroked',
                      'span.dropcaps',
+                     'div.iwrapper',
                      'span.chcklst-box fa fa-square-o',
                      'span.chcklst-box fa fa-square',
                      'span.chcklst-box fa fa-minus-square-o',
